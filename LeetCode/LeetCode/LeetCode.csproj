@@ -7,4 +7,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Update="Y2024\M06\D28\TaskMedium.txt">
+      <SubType>Component</SubType>
+    </None>
+    <None Update="Y2024\M07\D01\TaskEasy.txt">
+      <SubType>Component</SubType>
+    </None>
+  </ItemGroup>
+
 </Project>
