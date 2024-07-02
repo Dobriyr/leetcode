@@ -3,7 +3,7 @@
     /// <summary>
     /// Three Consecutive Odds
     /// </summary>
-    public static class Implementation2024_06_27
+    public static class Implementation2024_07_01
     {
         public static bool ThreeConsecutiveOdds(int[] arr)
         {
