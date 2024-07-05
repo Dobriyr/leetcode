@@ -8,6 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Update="TopInterview\1MergeSortedArray\TaskEasy.txt">
+      <SubType>Component</SubType>
+    </None>
     <None Update="Y2024\M06\D28\TaskMedium.txt">
       <SubType>Component</SubType>
     </None>
@@ -18,6 +21,12 @@
       <SubType>Component</SubType>
     </None>
     <None Update="Y2024\M07\D03\TaskMedium.txt">
+      <SubType>Component</SubType>
+    </None>
+    <None Update="Y2024\M07\D04\TaskMedium.txt">
+      <SubType>Component</SubType>
+    </None>
+    <None Update="Y2024\M07\D05\TaskMedium.txt">
       <SubType>Component</SubType>
     </None>
   </ItemGroup>
