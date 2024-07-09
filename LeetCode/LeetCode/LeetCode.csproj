@@ -38,6 +38,9 @@
     <None Update="Y2024\M07\D08\TaskMedium.txt">
       <SubType>Component</SubType>
     </None>
+    <None Update="Y2024\M07\D09\TaskMedium.txt">
+      <SubType>Component</SubType>
+    </None>
   </ItemGroup>
 
 </Project>
