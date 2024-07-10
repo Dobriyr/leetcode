@@ -9,7 +9,7 @@ namespace LeetCode.Y2024.M07.D09
     /// <summary>
     /// Average Waiting Time
     /// </summary>
-    public static class Implementation2024_07_00
+    public static class Implementation2024_07_09
     {
         public static double AverageWaitingTime(int[][] customers)
         {
